@@ -1,18 +1,26 @@
 package com.company;
 
+import java.util.Locale;
 import java.util.Scanner;
-import java.util.
 public class Main {
 
     public static void main(String[] args) {
-        double num_funcionario = 1548965;
-        double horas_trampa;
-        double valor_recebido;
-        double salarioFuncionario;
-
+        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("numero do funcionario: %f", num_funcionario);
-        System.out.println("Horas trabalhadas: 157945");
+        int n = sc.nextInt();
+        double [] vect = new double[n];
+        for(int i=0; i<n;i++){
+            vect[i] = sc.nextDouble();
+        }
+        double sum = 0.0;
+        for(int i=0;i<n;i++){
+            sum += vect[i];
+        }
+        double avg = sum/n;
+        System.out.println("AVERAGE HEIGHT: %.2f" + avg);
+
+
+    sc.close();
     }
 }

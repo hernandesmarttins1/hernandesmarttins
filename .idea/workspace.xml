@@ -22,13 +22,27 @@
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
     <option name="showStatusBarWidget" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8a92d07-3964-42ba-8017-65ad803c33ca" name="Default Changelist" comment="" />
+    <list default="true" id="d8a92d07-3964-42ba-8017-65ad803c33ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WrwjAaz6h9GpXLKp60gEdNH8c7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,6 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -77,13 +96,67 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1580260071206">
+    <state width="753" height="139" key="GridCell.Tab.0.bottom" timestamp="1580564421786">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="533" y="264" key="com.intellij.ide.util.TipDialog/0.0.1298.768@0.0.1298.768" timestamp="1580260071206" />
-    <state x="363" y="89" key="search.everywhere.popup" timestamp="1580091045103">
+    <state width="753" height="139" key="GridCell.Tab.0.bottom/0.0.1298.768@0.0.1298.768" timestamp="1580564421786" />
+    <state width="753" height="139" key="GridCell.Tab.0.center" timestamp="1580564421786">
       <screen x="0" y="0" width="1298" height="768" />
     </state>
-    <state x="363" y="89" key="search.everywhere.popup/0.0.1298.768@0.0.1298.768" timestamp="1580091045103" />
+    <state width="753" height="139" key="GridCell.Tab.0.center/0.0.1298.768@0.0.1298.768" timestamp="1580564421786" />
+    <state width="753" height="139" key="GridCell.Tab.0.left" timestamp="1580564421785">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="139" key="GridCell.Tab.0.left/0.0.1298.768@0.0.1298.768" timestamp="1580564421785" />
+    <state width="753" height="139" key="GridCell.Tab.0.right" timestamp="1580564421786">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="139" key="GridCell.Tab.0.right/0.0.1298.768@0.0.1298.768" timestamp="1580564421786" />
+    <state width="753" height="184" key="GridCell.Tab.1.bottom" timestamp="1580563960896">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="184" key="GridCell.Tab.1.bottom/0.0.1298.768@0.0.1298.768" timestamp="1580563960896" />
+    <state width="753" height="184" key="GridCell.Tab.1.center" timestamp="1580563960896">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="184" key="GridCell.Tab.1.center/0.0.1298.768@0.0.1298.768" timestamp="1580563960896" />
+    <state width="753" height="184" key="GridCell.Tab.1.left" timestamp="1580563960896">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="184" key="GridCell.Tab.1.left/0.0.1298.768@0.0.1298.768" timestamp="1580563960896" />
+    <state width="753" height="184" key="GridCell.Tab.1.right" timestamp="1580563960896">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state width="753" height="184" key="GridCell.Tab.1.right/0.0.1298.768@0.0.1298.768" timestamp="1580563960896" />
+    <state x="533" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1580559674560">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="533" y="264" key="com.intellij.ide.util.TipDialog/0.0.1298.768@0.0.1298.768" timestamp="1580559674560" />
+    <state x="226" y="119" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580562727083">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="226" y="119" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1298.768@0.0.1298.768" timestamp="1580562727083" />
+    <state x="363" y="89" key="search.everywhere.popup" timestamp="1580562054437">
+      <screen x="0" y="0" width="1298" height="768" />
+    </state>
+    <state x="363" y="89" key="search.everywhere.popup/0.0.1298.768@0.0.1298.768" timestamp="1580562054437" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="1" language="JAVA" />
+        <watch expression="1" language="JAVA" />
+        <watch expression="3" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
